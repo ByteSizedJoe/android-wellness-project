@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="josephmedina.werkit.MainActivity">
+
+    <Button
+        android:id="@+id/chronometerbutton"
+        android:layout_width="126dp"
+        android:layout_height="71dp"
+        android:layout_marginBottom="71dp"
+        android:text="Timer"
+        android:typeface="normal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toRightOf="@+id/createbutton"
+        app:layout_constraintRight_toRightOf="parent"
+        tools:layout_constraintBottom_creator="1" />
+
+    <Button
+        android:id="@+id/createbutton"
+        android:layout_width="126dp"
+        android:layout_height="0dp"
+        android:text="Create a workout"
+        android:typeface="normal"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toLeftOf="@+id/chronometerbutton"
+        tools:layout_constraintTop_creator="1"
+        tools:layout_constraintBottom_creator="1"
+        app:layout_constraintBottom_toBottomOf="@+id/chronometerbutton"
+        app:layout_constraintTop_toTopOf="@+id/chronometerbutton" />
+
+    <Button
+        android:id="@+id/profilebutton"
+        android:layout_width="126dp"
+        android:layout_height="71dp"
+        android:text="View your profile"
+        android:typeface="normal"
+        app:layout_constraintLeft_toRightOf="@+id/logbutton"
+        app:layout_constraintRight_toRightOf="parent"
+        tools:layout_constraintBottom_creator="1"
+        app:layout_constraintBottom_toTopOf="@+id/chronometerbutton"
+        android:layout_marginBottom="16dp" />
+
+    <Button
+        android:id="@+id/logbutton"
+        android:layout_width="126dp"
+        android:layout_height="71dp"
+        android:text="Log a Workout"
+        android:textAlignment="center"
+        android:typeface="normal"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toLeftOf="@+id/profilebutton"
+        tools:layout_constraintBottom_creator="1"
+        app:layout_constraintBottom_toTopOf="@+id/createbutton"
+        android:layout_marginBottom="16dp" />
+
+    <TextView
+        android:id="@+id/firstTime"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/firstTime"
+        android:textAlignment="center"
+        android:textColor="@color/colorPrimary"
+        android:textIsSelectable="true"
+        android:textSize="30sp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        tools:layout_constraintTop_creator="1"
+        tools:layout_constraintBottom_creator="1"
+        app:layout_constraintBottom_toBottomOf="@+id/logbutton"
+        android:layout_marginTop="141dp"
+        android:layout_marginBottom="141dp"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/welcomeText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="-1dp"
+        android:text="@string/welcome"
+        android:textAlignment="center"
+        android:textColor="@color/colorPrimary"
+        android:textIsSelectable="true"
+        android:textSize="30sp"
+        app:layout_constraintBottom_toTopOf="@+id/firstTime"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        tools:layout_constraintBottom_creator="1"
+        tools:layout_constraintLeft_creator="1"
+        tools:layout_constraintRight_creator="1" />
+
+</android.support.constraint.ConstraintLayout>

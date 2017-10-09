@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Werkit#</string>
+    <string name="welcome">Welcome</string>
+    <string name="firstTime">Select create a workout to begin</string>
+    <string name="welcomeback">Welcome back, </string>
+    <string name="gohome">Go home!</string>
+
+    <string name="c.workoutname">Enter workout name:</string>
+    <string name="c.exercisename">Enter exercise name:</string>
+    <string name="c.reps">Enter reps:</string>
+    <string name="c.sets">Enter sets:</string>
+    <string name="c.addButton">Add exercise</string>
+    <string name="c.saveworkout">Save</string>
+    <string name="c.clearworkout">Clear</string>
+
+    <string name="t.title">Timer</string>
+    <string name="startTimerButton">Start/Stop</string>
+    <string name="resetTimerButton">Reset</string>
+
+    <string name="p.about">About Me</string>
+    <string name="p.quote">Favorite Quote</string>
+    <string name="p.current">Current Weight: </string>
+    <string name="p.goal">Goal Weight: </string>
+    <string name="p.defaultWeight">150lbs</string>
+    <string name="p.defaultGoal">180lbs</string>
+
+    <string name="l.title">Select a workout:</string>
+    <string name="startTime">Workout started at:</string>
+    <string name="endTime">Workout ended at:</string>
+    <string name="end">End workout</string>
+
+</resources>
+

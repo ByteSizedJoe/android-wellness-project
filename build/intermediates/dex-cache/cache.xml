@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/josephmedina/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/josephmedina/AndroidStudioProjects/Werkit#/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.3.1_92a99f539bd943d5bb3d19da3fb16907f382e9d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josephmedina/AndroidStudioProjects/Werkit#/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/josephmedina/AndroidStudioProjects/Werkit#/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6838133b1ba9aec21ff2ef3ee385bd3c357bb6cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josephmedina/AndroidStudioProjects/Werkit#/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7acbccf75fbe3cc11596d55e0b51396929779ea5">
+        <dex dex="/Users/josephmedina/AndroidStudioProjects/Werkit#/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e56fd3b0e55a49b8a357c103a4e9aa2f6de989fc/classes.dex" />
+    </item>
+
+</items>

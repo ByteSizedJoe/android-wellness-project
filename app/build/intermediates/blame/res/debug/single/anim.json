@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/josephmedina/AndroidStudioProjects/Werkit#/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/josephmedina/.android/build-cache/d8639651891bd6b45a6bf1199a3193c084deb13d/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/josephmedina/AndroidStudioProjects/Werkit#/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/josephmedina/.android/build-cache/d8639651891bd6b45a6bf1199a3193c084deb13d/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/josephmedina/AndroidStudioProjects/Werkit#/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/josephmedina/.android/build-cache/d8639651891bd6b45a6bf1199a3193c084deb13d/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/josephmedina/AndroidStudioProjects/Werkit#/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/josephmedina/.android/build-cache/d8639651891bd6b45a6bf1199a3193c084deb13d/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/josephmedina/AndroidStudioProjects/Werkit#/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/josephmedina/.android/build-cache/d8639651891bd6b45a6bf1199a3193c084deb13d/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/josephmedina/AndroidStudioProjects/Werkit#/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/josephmedina/.android/build-cache/d8639651891bd6b45a6bf1199a3193c084deb13d/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/josephmedina/AndroidStudioProjects/Werkit#/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/josephmedina/.android/build-cache/d8639651891bd6b45a6bf1199a3193c084deb13d/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/josephmedina/AndroidStudioProjects/Werkit#/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/josephmedina/.android/build-cache/d8639651891bd6b45a6bf1199a3193c084deb13d/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/josephmedina/AndroidStudioProjects/Werkit#/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/josephmedina/.android/build-cache/d8639651891bd6b45a6bf1199a3193c084deb13d/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/josephmedina/AndroidStudioProjects/Werkit#/app/build/intermediates/res/merged/debug/anim/fadeout.xml",
+        "source": "/Users/josephmedina/AndroidStudioProjects/Werkit#/app/src/main/res/anim/fadeout.xml"
+    },
+    {
+        "merged": "/Users/josephmedina/AndroidStudioProjects/Werkit#/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/josephmedina/.android/build-cache/d8639651891bd6b45a6bf1199a3193c084deb13d/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/josephmedina/AndroidStudioProjects/Werkit#/app/build/intermediates/res/merged/debug/anim/fadein.xml",
+        "source": "/Users/josephmedina/AndroidStudioProjects/Werkit#/app/src/main/res/anim/fadein.xml"
+    }
+]

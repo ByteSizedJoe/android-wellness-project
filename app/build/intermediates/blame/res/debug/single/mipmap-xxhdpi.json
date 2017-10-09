@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/josephmedina/AndroidStudioProjects/Werkit#/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/josephmedina/AndroidStudioProjects/Werkit#/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/josephmedina/AndroidStudioProjects/Werkit#/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/createbutton.png",
+        "source": "/Users/josephmedina/AndroidStudioProjects/Werkit#/app/src/main/res/mipmap-xxhdpi/createbutton.png"
+    },
+    {
+        "merged": "/Users/josephmedina/AndroidStudioProjects/Werkit#/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_round.png",
+        "source": "/Users/josephmedina/AndroidStudioProjects/Werkit#/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/josephmedina/AndroidStudioProjects/Werkit#/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/appicon.png",
+        "source": "/Users/josephmedina/AndroidStudioProjects/Werkit#/app/src/main/res/mipmap-xxhdpi/appicon.png"
+    }
+]

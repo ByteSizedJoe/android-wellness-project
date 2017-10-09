@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/josephmedina/AndroidStudioProjects/Werkit#/app/build/intermediates/res/merged/debug/drawable-xhdpi/savebutton.png",
+        "source": "/Users/josephmedina/AndroidStudioProjects/Werkit#/app/src/main/res/drawable-xhdpi/savebutton.png"
+    },
+    {
+        "merged": "/Users/josephmedina/AndroidStudioProjects/Werkit#/app/build/intermediates/res/merged/debug/drawable-xhdpi/resttimerbutton.png",
+        "source": "/Users/josephmedina/AndroidStudioProjects/Werkit#/app/src/main/res/drawable-xhdpi/resttimerbutton.png"
+    },
+    {
+        "merged": "/Users/josephmedina/AndroidStudioProjects/Werkit#/app/build/intermediates/res/merged/debug/drawable-xhdpi/logbutton.png",
+        "source": "/Users/josephmedina/AndroidStudioProjects/Werkit#/app/src/main/res/drawable-xhdpi/logbutton.png"
+    },
+    {
+        "merged": "/Users/josephmedina/AndroidStudioProjects/Werkit#/app/build/intermediates/res/merged/debug/drawable-xhdpi/deletebutton.png",
+        "source": "/Users/josephmedina/AndroidStudioProjects/Werkit#/app/src/main/res/drawable-xhdpi/deletebutton.png"
+    },
+    {
+        "merged": "/Users/josephmedina/AndroidStudioProjects/Werkit#/app/build/intermediates/res/merged/debug/drawable-xhdpi/profilebutton.png",
+        "source": "/Users/josephmedina/AndroidStudioProjects/Werkit#/app/src/main/res/drawable-xhdpi/profilebutton.png"
+    }
+]

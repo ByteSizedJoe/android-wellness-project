@@ -1,0 +1,4 @@
+#Wed May 10 20:18:49 MDT 2017
+base.0=/Users/josephmedina/AndroidStudioProjects/Werkit\#/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4
+renamed.0=classes.dex
+file.0=/Users/josephmedina/AndroidStudioProjects/Werkit\#/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex
